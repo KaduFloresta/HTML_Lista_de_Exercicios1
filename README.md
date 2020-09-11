@@ -4,6 +4,8 @@ Análise e Desenvolvimento de Sistemas - Senac 2020
 ## HTML - Lista de exercícios #1
 
 **Desenvolvimento WEB**
+---
+
 # Instruções
 Antes de começar a desenvolver os exercícios, faça uma tela inicial que possua o link para abrir cada um dos htmls dos exercícios.
 
