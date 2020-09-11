@@ -12,8 +12,21 @@ Por padrão, cada exercício deve ficar dentro de uma pasta separada (exer1, exe
 Na pasta principal deve ficar apenas um index.html com os links pros exercícios (você pode estilizar da maneira que quiser).
 Ao final de cada um dos htmls de exercícios, crie um link que retorne para o meu de exercícios principal.
 
-1. Existem diversas tags que podem ser utilizadas para formatação de texto no HTML. Além dos headers (H1,H2,H3...), parágrafo e outras que vimos em sala, também podemos ter:
-(<b>, <strong>, <i>, <em>, <mark>, <small>, <del>, <ins>, <sub>, <sup>, <u>, <code>).
+1. Existem diversas tags que podem ser utilizadas para formatação de texto no HTML.
+Além dos headers (H1,H2,H3...), parágrafo e outras que vimos em sala, também podemos ter:
+
+    - b <b>Exemplo 1</b>
+    - strong <strong>Exemplo 2</strong>
+    - i <i>Exemplo 3</i>
+    - em <em>Exemplo 4</em>
+    - mark <mark>Exemplo 5</mark>
+    - small <small>Exemplo 6</small>
+    - del <del>Exemplo 7</del>
+    - ins <ins>Exemplo 8</ins>
+    - sub <sub>Exemplo 9</sub>
+    - sup <sup>Exemplo 10</sup>
+    - u <u>Exemplo 11</u>
+    - code <code>Exemplo 12</code>
 
 Utilizando estas tags e outras vistas em aula, construa uma página igual à imagem em anexo.
 Link do texto: https://www.devmedia.com.br/a-origem-do-css-um-pouco-da-historia/15195
