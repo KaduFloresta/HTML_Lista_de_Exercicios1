@@ -1,9 +1,10 @@
-# Lista1-HTML
-Lista de exercícios #1 em HTML - Senac 2020
+<img src="https://www.ead.senac.br/arquivo/api/download/publico/1134" alt="drawing" width="400"/><br>
+Análise e Desenvolvimento de Sistemas - Senac 2020
 
-Desenvolvimento WEB
-(Vence 16 de agosto de 2020 23:59)
-Instruções
+## HTML - Lista de exercícios #1
+
+**Desenvolvimento WEB**
+# Instruções
 Antes de começar a desenvolver os exercícios, faça uma tela inicial que possua o link para abrir cada um dos htmls dos exercícios.
 
 Por padrão, cada exercício deve ficar dentro de uma pasta separada (exer1, exer2, exer3, etc.)
@@ -26,4 +27,4 @@ Link do texto: https://www.devmedia.com.br/a-origem-do-css-um-pouco-da-historia/
 ps: Pesquise como deixar um elemento transparente para fazer a cor de fundo do fieldset
 ps2: Também pesquise como modificar a cor da borda do fieldset para preto
 
-Enviar para o github com o nome "Lista 1 - HTML" e colar o link na resposta
+**Enviar para o github com o nome "Lista 1 - HTML" e colar o link na resposta**
