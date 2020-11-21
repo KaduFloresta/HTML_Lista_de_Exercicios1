@@ -66,3 +66,5 @@ ps: Pesquise como deixar um elemento transparente para fazer a cor de fundo do f
 ps2: Também pesquise como modificar a cor da borda do fieldset para preto.
 
 **Enviar para o github com o nome "Lista 1 - HTML" e colar o link na resposta**
+
+---
